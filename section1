@@ -1,0 +1,3 @@
+git remote add origin https://github.com/Zahra-Alikhani2004/machine-learning.git
+git branch https://github.com/Zahra-Alikhani2004/machine-learning/tree/main-M main
+git push https://github.com/Zahra-Alikhani2004/section1-u origin main
